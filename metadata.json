@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Inpainter",
+  "description": "An intelligent image editor that allows you to select a region of an image with a brush and describe changes with a text prompt. The AI will then regenerate only the selected area based on your instructions.",
+  "requestFramePermissions": []
+}
